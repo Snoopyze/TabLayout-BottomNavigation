@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BTTL1</string>
+    <string name="home">Home</string>
+    <string name="practice">Practice</string>
+    <string name="reward">Reward</string>
+    <string name="shield">Shield</string>
+    <string name="account">Account</string>
+    <string name="space"></string>
+    <string name="noitication">Noitication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Họ và Tên: Trần Như Anh Minh</string>
+    <string name="classStudy">Lớp: 22T2</string>
+    <string name="department">Khoa: Công Nghệ Số</string>
+    <string name="school">Trường: Đại học Sư Phạm Kỹ Thuật - Đại học Đà Nẵng</string>
+    <string name="hometown">Quê quán: Đức Thạnh, Mộ Đức, Quảng Ngãi</string>
+    <string name="dob">Ngày sinh: 16/05/2004</string>
+    <string name="pob">Nơi sinh: Trạm y tế Thôn Nhơn Khánh, Sa Nhơn, Sa Thầy, Kon Tum</string>
+    <string name="residence">Nơi thường trú: Thôn Nhơn Khánh, Sa Nhơn, Sa Thầy, Kon Tum</string>
+
+</resources>

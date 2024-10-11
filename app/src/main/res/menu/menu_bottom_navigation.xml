@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:id="@+id/menu_home"
+        android:icon="@drawable/home_house_svgrepo_com"
+        android:title="@string/home"
+        />
+
+    <item
+        android:id="@+id/menu_chest"
+        android:icon="@drawable/treasure_svgrepo_com"
+        android:title="@string/reward"
+        />
+    <item
+        android:id="@+id/menu_shield"
+        android:icon="@drawable/shield_svgrepo_com"
+        android:title="@string/shield"
+        />
+    <item
+        android:id="@+id/menu_accout"
+        android:icon="@drawable/personal_information_class_svgrepo_com"
+        android:title="@string/account"
+        />
+    <item
+        android:id="@+id/menu_noitication"
+        android:icon="@drawable/bell_part_2_svgrepo_com"
+        android:title="@string/noitication"
+        />
+</menu>
